@@ -1,28 +1,7 @@
 body {
-  margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #fff8e7;
-  color: #333;
 }
-.container {
-  padding: 20px;
-}
-.site-header,
-.site-footer {
-  background-color: #FA6800;
-  color: #fff;
-  padding: 15px;
-  text-align: center;
-}
-.btn-primary {
-  background-color: #60708B;
-  color: #fff;
-  padding: 10px 20px;
-  text-decoration: none;
-  display: inline-block;
-  border-radius: 5px;
-  margin-top: 10px;
-}
-a {
-  color: #60708B;
+
+h1, h2 {
+  color: #2c3e50;
 }
